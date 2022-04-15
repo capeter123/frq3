@@ -1,4 +1,4 @@
-# frq3
+# LLCconverter
 LLC converter end value calculator
 
 converter3.c is main file to set power, voltage and electrnic parts value
